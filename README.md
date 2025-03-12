@@ -30,3 +30,11 @@
 https://github.com/Nisha3019/Project-Management/blob/440e6edacef25211110e123c11ff76891b40b38a/image.jpeg
 https://github.com/Nisha3019/Project-Management/blob/main/image.png
 
+**Proposal 2**
+
+
+**Proposal 3**
+
+
+**Proposal 4**
+
