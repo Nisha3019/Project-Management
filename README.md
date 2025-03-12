@@ -26,15 +26,17 @@
 **Screenshots**
 
 **Proposal 1**
-
-https://github.com/Nisha3019/Project-Management/blob/440e6edacef25211110e123c11ff76891b40b38a/image.jpeg
-https://github.com/Nisha3019/Project-Management/blob/main/image.png
+   https://github.com/Nisha3019/Project-Management/blob/440e6edacef25211110e123c11ff76891b40b38a/image.jpeg
+   https://github.com/Nisha3019/Project-Management/blob/main/image.png
 
 **Proposal 2**
-
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image_2.png
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image2.png
 
 **Proposal 3**
-
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image_3.png
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image3.png
 
 **Proposal 4**
-
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image_4.png
+  https://github.com/Nisha3019/Project-Management/blob/4cbaa40f85aa8e5a6f6227b291adc9677d19bdb5/image4.png
